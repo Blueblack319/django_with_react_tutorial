@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/crazybirdz/anaconda3/envs/django_with_react/bin/python3.9",
+    "python.formatting.blackPath": "/home/crazybirdz/anaconda3/envs/tutorial/bin/black",
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": ["--line-length", "100"],
+    "[python]": {
+        "editor.formatOnSave": true,
+    // "editor.formatOnSaveTimeout": 3000
+    },
+}
